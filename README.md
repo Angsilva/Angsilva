@@ -1,8 +1,8 @@
 Redescobrindo uma nova trajetória, analise de dados.
 
 - 👋 Oi, sou Angel Silva
-- 👀 Estou focado nos estudos, para um maior de aprendizado
-- 🌱 Atualmente estou aprendendo Python | R | Machine learning
+- 👀 Estou focado nos estudos, ciência de dados
+- 🌱 Aprendendo Python | R | Machine learning
 - 📫 Estou no linkedin - linkedin.com/in/angel-silva-390b5773 
 
 <!---
